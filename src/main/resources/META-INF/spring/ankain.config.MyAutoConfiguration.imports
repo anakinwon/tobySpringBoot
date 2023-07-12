@@ -1,0 +1,6 @@
+ankain.config.autoconfig.TomcatWebServerConfig
+ankain.config.autoconfig.JettyWebServerConfig
+ankain.config.autoconfig.DispatcherServletConfig
+ankain.config.autoconfig.PropertyPlaceHolderConfig
+ankain.config.autoconfig.PropertyPostProcessorConfig
+ankain.config.autoconfig.DataSourceConfig
